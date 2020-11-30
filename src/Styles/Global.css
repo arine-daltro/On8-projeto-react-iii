@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgb(200,200);
+    background-color: #52fffe;
+}
+
+body, input, button, textarea{
+    font: 600 18px Nunito, sans-serif;
+}
+
+.redes-sociais__link {
+    margin-right: 16px;
+}
